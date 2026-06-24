@@ -1,4 +1,9 @@
 ## Hey friends! 👋 Welcome to the nitty gritty back-end of my online brand; Sugar Rush Tees, and student handle; FullStackElls!
+
+![Codecademy FullStack Bootcamp details](/Images/codecademy-badge-small.jpg
+![Sugar Rush Tees logo and rainbow background](Images/SweetAsShirts-small.jpg)
+
+
 ## Info
 <!--
 **SugarRushTees/SugarRushTees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,13 +34,10 @@ This year I returned to the world of formal education but on a more relaxed, onl
 - 🤔 I’m looking for help with ALL OF MY PROJECTS! If you are also part of the codecademy course and feel like lending a hand... I am terrible at asking :D
 
 ## Reach Out
-📫 Custom pribt idea? Price query? Suggestions? Feel free to contact me on SugarRushTees@hotmail.com 
-
+📫 Custom print idea? Price query? Suggestions? Feel free to contact me on SugarRushTees@hotmail.com 
+<!--- 
 ## Badges
-
-
-<!--- 👯 I’m looking to collaborate on ...
-
+👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ... -->
 =⚡ Fun fact: Polar Bears are always ambidexterous or left-handed
