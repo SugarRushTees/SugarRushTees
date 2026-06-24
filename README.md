@@ -23,7 +23,6 @@ In my repository's, you will find a mix of coding/development practice as well a
 This year I returned to the world of formal education but on a more relaxed, online path in website devlopment, so please send through any queries or ideas, and watch this space for a brand spanking new and shiny website coming soon! (Featuring all the unneccessary bells and whistles :D)
 </details>
 
-
 ## The Prompts
 - 🔭 I’m currently working on some projects for my Codecademy course in Fullstack Development. Starting with this here About Me page, wish me luck!
 - 🌱 I’m learning how to use React and Javascript, but im currently just fiddling with the Github basics. How do I look?
@@ -32,11 +31,17 @@ This year I returned to the world of formal education but on a more relaxed, onl
 ## Reach Out
 📫 Custom pribt idea? Price query? Suggestions? Feel free to contact me on SugarRushTees@hotmail.com 
 
+## Badges
+
+
 <!--- 👯 I’m looking to collaborate on ...
 
 - 💬 Ask me about ...
 - 😄 Pronouns: ... -->
 =⚡ Fun fact: Polar Bears are always ambidexterous or left-handed
+
+## Pay It Forward
+- Donate to the awesome Shields.io team ![GitHub Workflow Status](https://shields.io/donate) here, who create and provide a plethora of badges for free.
 
 
 
