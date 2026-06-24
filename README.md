@@ -1,8 +1,7 @@
+
+
+![Sugar Rush Tees logo and rainbow background](Images/readme-pics.jpg)
 ## Hey friends! 👋 Welcome to the nitty gritty back-end of my online brand; Sugar Rush Tees, and student handle; FullStackElls!
-
-![Codecademy FullStack Bootcamp details](/Images/codecademy-badge-small.jpg
-![Sugar Rush Tees logo and rainbow background](Images/SweetAsShirts-small.jpg)
-
 
 ## Info
 <!--
