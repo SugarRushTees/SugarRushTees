@@ -42,7 +42,7 @@ This year I returned to the world of formal education but on a more relaxed, onl
 =⚡ Fun fact: Polar Bears are always ambidexterous or left-handed
 
 ## Pay It Forward
-- Donate to the awesome Shields.io team ![GitHub Workflow Status](https://shields.io/donate) here, who create and provide a plethora of badges for free.
+- Donate to the awesome Shields.io team ![here](https://shields.io/donate), who create and provide a plethora of badges for free.
 
 
 
